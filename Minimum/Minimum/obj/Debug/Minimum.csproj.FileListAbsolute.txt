@@ -1,0 +1,10 @@
+C:\Users\Mahan\source\repos\Minimum\Minimum\bin\Debug\Minimum.exe.config
+C:\Users\Mahan\source\repos\Minimum\Minimum\bin\Debug\Minimum.exe
+C:\Users\Mahan\source\repos\Minimum\Minimum\bin\Debug\Minimum.pdb
+C:\Users\Mahan\source\repos\Minimum\Minimum\obj\Debug\Minimum.csprojAssemblyReference.cache
+C:\Users\Mahan\source\repos\Minimum\Minimum\obj\Debug\Minimum.Form1.resources
+C:\Users\Mahan\source\repos\Minimum\Minimum\obj\Debug\Minimum.Properties.Resources.resources
+C:\Users\Mahan\source\repos\Minimum\Minimum\obj\Debug\Minimum.csproj.GenerateResource.cache
+C:\Users\Mahan\source\repos\Minimum\Minimum\obj\Debug\Minimum.csproj.CoreCompileInputs.cache
+C:\Users\Mahan\source\repos\Minimum\Minimum\obj\Debug\Minimum.exe
+C:\Users\Mahan\source\repos\Minimum\Minimum\obj\Debug\Minimum.pdb
